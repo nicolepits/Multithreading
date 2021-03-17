@@ -1,4 +1,4 @@
-# kthread
+# multithreading
 
 **Thread Scheduler in C**
 
